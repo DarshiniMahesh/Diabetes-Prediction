@@ -29,8 +29,8 @@ To run this project, ensure you have the following dependencies installed:
 #### You can install them using pip:  
 pip install numpy pandas scikit-learn matplotlib  
 #### Clone the repository:  
-git clone https://github.com/YourUsername/diabetics-prediction.git  
-cd diabetics-prediction  
+git clone https://github.com/DarshiniMahesh/Diabetics-Prediction.git  
+cd Diabetics-Prediction  
 
 ## Usage  
 Run the main script to train the model and make predictions:  
